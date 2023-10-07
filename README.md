@@ -1,3 +1,3 @@
-"Passionate front-end developer skilled in HTML, CSS, and creating visually appealing websites. Check out my projects and let's connect!" Keep it concise and let your skills shine on your GitHub profile! 
+This website showcases my skills, projects, and experiences in web development. I've crafted a visually appealing and user-friendly design using HTML, CSS, and JavaScript. Explore my work and learn more about me. Let's connect and collaborate on exciting opportunities!
 
 DEMO: https://mohammedyusuff.github.io/portfolio/
